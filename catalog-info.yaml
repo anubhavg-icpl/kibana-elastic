@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kibana-elastic
+  annotations:
+    github.com/project-slug: anubhavg-icpl/kibana-elastic
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
